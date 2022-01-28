@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  Hey There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+  Çay koy yeniden başlıyoruz
   <img src="https://imgyukle.com/f/2022/01/22/ozD2K0.gif" data-canonical-src="https://imgyukle.com/f/2022/01/22/ozD2K0.gif" width="900" height="500" /><br /> <br />
   <img src="https://komarev.com/ghpvc/?username=titanhaxz" data-canonical-src="https://komarev.com/ghpvc/?username=titanhaxz" width="106" height="20" />
  
