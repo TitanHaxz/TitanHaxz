@@ -1,8 +1,6 @@
 
 
 <p align="center">
-  Çay koy yeniden başlıyoruz
-  <img src="https://imgyukle.com/f/2022/01/22/ozD2K0.gif" data-canonical-src="https://imgyukle.com/f/2022/01/22/ozD2K0.gif" width="900" height="500" /><br /> <br />
   <img src="https://komarev.com/ghpvc/?username=titanhaxz" data-canonical-src="https://komarev.com/ghpvc/?username=titanhaxz" width="106" height="20" />
  
 </p>
