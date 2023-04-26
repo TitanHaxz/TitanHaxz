@@ -1,4 +1,5 @@
 ## Hey, I'm TitanHaxz 👋
+I have been involved in game server and website development for a long time, and I also aim to improve my skills in MySQL database management.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/bu%C4%9Fra-bozkurt-517bb81ba/) 
