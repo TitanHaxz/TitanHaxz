@@ -1,31 +1,20 @@
+## Hey, I'm TitanHaxz 👋
 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/bu%C4%9Fra-bozkurt-517bb81ba/) 
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=titanhaxz" data-canonical-src="https://komarev.com/ghpvc/?username=titanhaxz" width="106" height="20" />
- 
-</p>
+# 💻 Tech Stack:
+![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=TitanHaxz&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=TitanHaxz&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=TitanHaxz&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=TitanHaxz&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=TitanHaxz&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
- <br />
-
-<h2 align="center">🤝</h2>
-<p align="center">💙 If you like my projects, Give them ⭐ and Share it with friends!</p>
-</p>
-
-<h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
-
-<p align="center">
-        <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" />
-</p>
-
-<br />
-<a href="discord.gg">
-  <table align="right">
-      <tr>
-          <td>
-            👉 &nbsp;&nbsp;Discord
-          </td>
-      </tr>
-  </table>
-</a>
+---
+[![](https://visitcount.itsvg.in/api?id=TitanHaxz&icon=0&color=0)](https://visitcount.itsvg.in)
