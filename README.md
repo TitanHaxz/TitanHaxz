@@ -5,10 +5,14 @@
 
 # 💻 Tech Stack:
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=TitanHaxz&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=TitanHaxz&theme=dark&hide_border=false)
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=TitanHaxz&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=TitanHaxz&theme=radical&no-frame=false&no-bg=true&margin-w=4)
