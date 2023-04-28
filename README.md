@@ -1,4 +1,4 @@
-## Hey, I'm TitanHaxz 👋
+## Hey, I'm Buğra 👋
 I have been involved in game server and website development for a long time, and I also aim to improve my skills in MySQL database management.
 
 ## 🌐 Socials:
