@@ -24,4 +24,4 @@ I am a first-year university student and have been actively involved in the busi
 ---
 [![](https://visitcount.itsvg.in/api?id=TitanHaxz&icon=0&color=0)](https://visitcount.itsvg.in)
 
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/YOUR_USERNAME/TitanHaxz/blob/output/github-contribution-grid-snake.gif)
