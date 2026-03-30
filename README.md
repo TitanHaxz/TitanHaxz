@@ -1,32 +1,25 @@
 ## Hey, I'm Buğra 👋
-I am a first-year university student and have been actively involved in the business world since 2017. I took my first steps in game server development, where I learned languages such as HTML, CSS, JavaScript, and Lua. Later on, my interest in web development led me to learn PHP and MySQL. Currently, I am focused on enhancing my skills and specializing in the field of cybersecurity.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/titanhaxz/) 
+Backend and DevOps focused developer with a strong interest in defensive security. Currently building infrastructure, automating workflows, and learning how to secure them.
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+## Socials
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bugra-bozkurt)
+[![Website](https://img.shields.io/badge/Website-%23000000.svg?logo=googlechrome&logoColor=white)](https://titanhaxz.com)
 
+## Tech Stack
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=TitanHaxz&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=TitanHaxz&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=TitanHaxz&theme=dark&hide_border=false)
-
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=TitanHaxz&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=TitanHaxz&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TitanHaxz/TitanHaxz/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TitanHaxz/TitanHaxz/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/TitanHaxz/TitanHaxz/output/github-contribution-grid-snake.svg">
-</picture>
+## GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=TitanHaxz&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=TitanHaxz&theme=dark&hide_border=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=TitanHaxz&icon=0&color=0)](https://visitcount.itsvg.in)
-
